@@ -1,0 +1,13 @@
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\bin\Debug\LayoutTest.exe.config
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\bin\Debug\LayoutTest.exe
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\bin\Debug\LayoutTest.pdb
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\LayoutTest.csprojResolveAssemblyReference.cache
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\MainWindow.baml
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\MainWindow.g.cs
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\App.g.cs
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\LayoutTest_MarkupCompile.cache
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\LayoutTest.g.resources
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\LayoutTest.Properties.Resources.resources
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\LayoutTest.csproj.GenerateResource.Cache
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\LayoutTest.exe
+c:\users\jcso\documents\visual studio 2013\Projects\LayoutTest\LayoutTest\obj\Debug\LayoutTest.pdb
